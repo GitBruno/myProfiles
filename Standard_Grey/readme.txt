@@ -1,0 +1,1 @@
+These are the standard dot gain profiles that come with Adobe Photoshop

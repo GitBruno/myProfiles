@@ -1,7 +1,7 @@
 myProfiles
 ==========
 
-A compilation of additional colour profiles.
+A compilation of additional colour profiles for print.
 
 Installation
 ------------
@@ -9,7 +9,7 @@ Clone this repositry into `~/Library/ColorSync/Profiles/`
 
 Splitting_Image_Custom Profiles
 -------------------------------
-* 1010 Golden Sun 120 NEW 315 90.icc
+* 1010_GoldenSun_120_NEW_315_90.icc
 * ISOcoated_v2_300_eci.icc
 * ISOuncoated.icc
 * Splitt ISO ver2 22-2-07.icc
@@ -35,6 +35,14 @@ ECI Offset Profiles - Supplement 2012-2 - Surface Finishing
 * ISOcoated_v2_300_eci.icc
 * PSO_Coated_v2_300_Matte_laminate_eci.icc
 * PSO_Coated_v2_300_ Glossy_laminate_eci.icc
+
+Standard_Grey
+-------------
+* Dot_Gain_10%.icc
+* Dot_Gain_15%.icc
+* Dot_Gain_20%.icc
+* Dot_Gain_25%.icc
+* Dot_Gain_30%.icc
 
 More info?
 ---------
