@@ -1,8 +1,11 @@
-Colour Profiles
-===============
+myProfiles
+==========
 
-These are a compilation of additional colour profiles.
-Which you can find under ~/Library/ColorSync/Profiles
+A compilation of additional colour profiles.
+
+Installation
+------------
+Clone this repositry into `~/Library/ColorSync/Profiles/`
 
 Splitting_Image_Custom Profiles
 -------------------------------
