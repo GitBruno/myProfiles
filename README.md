@@ -7,14 +7,14 @@ Installation
 ------------
 Clone this repositry into `~/Library/ColorSync/Profiles/`
 
-Splitting_Image_Custom Profiles
--------------------------------
+Splitting Image (Custom)
+------------------------
 * 1010_GoldenSun_120_NEW_315_90.icc
-* ISOcoated_v2_300_eci.icc
-* ISOuncoated.icc
+* 1010 IKPP 24-5-16.icc
+* HM_SUN_Uncoated.icc
 * Splitt ISO ver2 22-2-07.icc
 
-ECI_Offset_2009
+ECI Offset 2009
 ---------------
 * ISOcoated_v2_eci.icc
 * ISOcoated_v2_300eci.icc
@@ -31,8 +31,6 @@ ECI_Offset_2009
 
 ECI Offset Profiles - Supplement 2012-2 - Surface Finishing
 -----------------------------------------------------------
-* ISOcoated_v2_eci.icc
-* ISOcoated_v2_300_eci.icc
 * PSO_Coated_v2_300_Matte_laminate_eci.icc
 * PSO_Coated_v2_300_ Glossy_laminate_eci.icc
 
@@ -46,4 +44,4 @@ Standard_Grey
 
 More info?
 ---------
-You can find more info with the notes that come with the profiles.
+Please read the notes that come with the profiles.
