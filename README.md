@@ -14,6 +14,11 @@ Splitting Image (Custom)
 * HM_SUN_Uncoated.icc
 * Splitt ISO ver2 22-2-07.icc
 
+ECI Offset profiles (current versions)
+--------------------------------------
+* PSOcoated_v3.icc
+* PSOuncoated_v3_FOGRA52.icc
+
 ECI Offset 2009
 ---------------
 * ISOcoated_v2_eci.icc
@@ -29,18 +34,28 @@ ECI Offset 2009
 * PSO_Coated_300_NPscreen_ISO12647_eci.icc
 * PSO_Uncoated_NPscreen_ISO12647_eci.icc
 
-ECI Offset Profiles - Supplement 2012-2 - Surface Finishing
------------------------------------------------------------
+### ECI Offset Profiles - Supplement 2012-2 - Surface Finishing
+
 * PSO_Coated_v2_300_Matte_laminate_eci.icc
 * PSO_Coated_v2_300_ Glossy_laminate_eci.icc
 
-Standard_Grey
+FOGRA52
+-------
+* PSOuncoated_v3_FOGRA52.icc
+
+Standard Grey
 -------------
 * Dot_Gain_10%.icc
 * Dot_Gain_15%.icc
 * Dot_Gain_20%.icc
 * Dot_Gain_25%.icc
 * Dot_Gain_30%.icc
+
+Standard RGB
+------------
+* AdobeRGB1998.icc
+* sRGB Profile.icc
+* eciRGB_v2
 
 More info?
 ---------
