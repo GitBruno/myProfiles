@@ -7,6 +7,8 @@ Installation
 ------------
 Clone this repositry into `~/Library/ColorSync/Profiles/`
 
+    git clone https://github.com/GitBruno/myProfiles.git ~/Library/ColorSync/Profiles/myProfiles
+
 Splitting Image (Custom)
 ------------------------
 * 1010_GoldenSun_120_NEW_315_90.icc
