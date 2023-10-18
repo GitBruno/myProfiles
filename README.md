@@ -5,9 +5,15 @@ A compilation of additional colour profiles for print.
 
 Installation
 ------------
-Clone this repositry into `~/Library/ColorSync/Profiles/`
+Clone this repositry into `~/Library/ColorSync/Profiles/` on mac `\Windows\System32\spool\drivers\color` for Windows.
 
     git clone https://github.com/GitBruno/myProfiles.git ~/Library/ColorSync/Profiles/myProfiles
+
+For windows type `runas CMD`:
+
+    git clone https://github.com/GitBruno/myProfiles.git \Windows\System32\spool\drivers\color
+
+
 
 Splitting Image (Custom)
 ------------------------
