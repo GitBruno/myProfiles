@@ -68,3 +68,7 @@ Standard RGB
 More info?
 ---------
 Please read the notes that come with the profiles.
+
+Standard P3
+-----------
+* DisplayP3.icc (Display P3 primaries, D65, sRGB TRC)
